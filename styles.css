@@ -1,0 +1,35 @@
+body{
+    background-color:  #393E46;
+    color:rgb(170, 185, 233);
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+
+}
+h1{
+    margin:30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+}
+p{
+    font-weight: bold;
+    font-size: 1rem;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    font-size:  2rem;
+    font-family: sans-serif;
+}
+img{
+    width: 80%;
+    margin: 20px;
+}
